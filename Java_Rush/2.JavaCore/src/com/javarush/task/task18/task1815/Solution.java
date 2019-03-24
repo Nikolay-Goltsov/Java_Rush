@@ -1,6 +1,5 @@
 package com.javarush.task.task18.task1815;
 
-import javax.smartcardio.ATR;
 import java.util.List;
 
 /* 

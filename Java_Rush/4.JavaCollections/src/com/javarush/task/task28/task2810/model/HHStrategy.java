@@ -1,16 +1,16 @@
 package com.javarush.task.task28.task2810.model;
 
-import com.javarush.task.task28.task2810.vo.Vacancy;
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.List;
+
+import javax.lang.model.util.Elements;
+import javax.swing.text.Document;
+
+import org.jsoup.Jsoup;
+
+import com.javarush.task.task28.task2810.vo.Vacancy;
+import com.sun.java.util.jar.pack.Attribute.Layout.Element;
 
 
 /**

@@ -1,12 +1,6 @@
 package com.javarush.task.task28.task2810;
 
 import com.javarush.task.task28.task2810.model.Model;
-import com.javarush.task.task28.task2810.model.Provider;
-import com.javarush.task.task28.task2810.vo.Vacancy;
-
-import javax.jws.WebParam;
-import java.util.Arrays;
-import java.util.List;
 
 /**
  * Created by Alexey on 21.04.2017.

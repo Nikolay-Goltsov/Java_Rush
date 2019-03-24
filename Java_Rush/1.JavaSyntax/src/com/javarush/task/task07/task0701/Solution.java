@@ -1,7 +1,5 @@
 package com.javarush.task.task07.task0701;
 
-import jdk.internal.cmm.SystemResourcePressureImpl;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

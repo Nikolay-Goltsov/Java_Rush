@@ -1,7 +1,5 @@
 package com.javarush.task.task06.task0614;
 
-import sun.util.resources.cldr.ar.CalendarData_ar_TN;
-
 import java.util.ArrayList;
 
 /* 

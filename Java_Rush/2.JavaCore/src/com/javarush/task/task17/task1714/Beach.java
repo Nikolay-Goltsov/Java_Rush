@@ -1,17 +1,5 @@
 package com.javarush.task.task17.task1714;
 
-/* 
-Comparable
-
-Реализуйте интерфейс Comparable<Beach> в классе Beach. Пляжи(Beach) будут использоваться нитями,
-поэтому позаботьтесь, чтобы все методы были синхронизированы.
-Реализовать метод compareTo так, чтобы он при сравнении двух пляжей выдавал число,
-которое показывает что первый пляж лучше(позитивное число)
-или второй пляж лучше (негативное число),и насколько он лучше.
-*/
-
-import com.sun.org.apache.xerces.internal.impl.xpath.regex.Match;
-
 public class Beach implements Comparable<Beach> {
     private String name;      //название
     private float distance;   //расстояние
